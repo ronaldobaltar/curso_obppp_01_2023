@@ -22,7 +22,9 @@ Este conteúdo digital foi apresentado como parte do curso _online_ "Introduçã
 
 O conteúdo está agora aberto ao público, com o compromisso do ObPPP de fortalecer a cidadania ativa, qualificando pessoas interessadas na análise de dados sociais. Não há mais emissão de certificado ou carga horária.&#x20;
 
-Caso queira receber em seu e-mail novos conteúdos e dicas sobre R para análise de dados sociais, acompanhe nossa _News Letter_ "[Análise Quantitativa da Mudanças Sociais"](https://aqdams.substack.com/).
+<figure><img src=".gitbook/assets/banner_podcast_aqms.jpg" alt=""><figcaption></figcaption></figure>
+
+Caso queira receber em seu e-mail novos conteúdos e dicas sobre R para análise de dados sociais, acompanhe nossa _newsletter_ "[Análise Quantitativa da Mudanças Sociais - AQMS"](https://aqms.substack.com/).
 
 ### Como fazer as atividades <a href="#fkdc6lsbdp0e" id="fkdc6lsbdp0e"></a>
 
@@ -120,4 +122,4 @@ Um dos pontos fortes do R está na versatilidade de recursos para análise explo
 
 **Mantenha-se atualizado com R e RStudio**
 
-Acompanhe novos conteúdos e dicas sobre R para análise de dados sociais com a nossa _News Letter_ "[Análise Quantitativa da Mudanças Sociais"](https://aqdams.substack.com/).
+Acompanhe novos conteúdos e dicas sobre R para análise de dados sociais com a nossa _News Letter_ "[Análise Quantitativa da Mudanças Sociais"](https://aqms.substack.com/).
