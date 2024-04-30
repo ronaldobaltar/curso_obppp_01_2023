@@ -38,9 +38,9 @@ Caso queira receber em seu e-mail novos conteúdos e dicas sobre R para análise
 
 ### Videoaula <a href="#b12fdwt8o9kl" id="b12fdwt8o9kl"></a>
 
-[Apresentação - Curso Introdução aos Indicadores Sociais com o R - Watch Video](https://www.loom.com/share/183bbcb7e585489b9c58ffee94c723ab)
+Apresentação - Curso Introdução aos Indicadores Sociais com o R - Watch Vide
 
-[![](<.gitbook/assets/1 (8).gif>)](https://www.loom.com/share/183bbcb7e585489b9c58ffee94c723ab)
+{% embed url="https://youtu.be/2xThT7z9Oys" %}
 
 ### Objetivo do curso <a href="#cdan1i8cqvyd" id="cdan1i8cqvyd"></a>
 
