@@ -18,13 +18,13 @@ layout:
 
 ### Sobre esse conteúdo <a href="#id-5n6cvmjko2cf" id="id-5n6cvmjko2cf"></a>
 
-Este conteúdo digital foi apresentado como parte do curso _online_ "Introdução aos Indicadores Sociais com o software R", de autoria do **Prof. Ronaldo Baltar** e da **Prof.ª Cláudia Siqueira Baltar**, como atividade do Projeto de extensão "Indicadores sociais como subsídio para o monitoramento e avaliação das ações dos municípios paranaenses em direção à Agenda 2030", vinculado ao [ObPPP (Observatório de Populações e Políticas Públicas)](https://populacoes.info) e ao InfoSoc (Informática aplicada à Pesquisa Social), ambos projetos do Dept.º C. Soc. - CLCH/UEL.&#x20;
+Este conteúdo digital foi apresentado como parte do curso _online_ "Introdução aos Indicadores Sociais com o software R", de autoria do **Prof. Ronaldo Baltar** e da **Prof.ª Cláudia Siqueira Baltar**, como atividade de extensão vinculads ao projeto [Populações e dinâmica social](https://populacoes.info) e ao InfoSoc (Informática aplicada à Pesquisa Social), ambos projetos do Dept.º C. Soc. - CLCH/UEL.&#x20;
 
-O conteúdo está agora aberto ao público, com o compromisso do ObPPP de fortalecer a cidadania ativa, qualificando pessoas interessadas na análise de dados sociais. Não há mais emissão de certificado ou carga horária.&#x20;
+O conteúdo está agora aberto ao público, com o compromisso do nosso projeto de fortalecer a cidadania ativa, qualificando pessoas interessadas na análise de dados sociais. Não há mais emissão de certificado ou carga horária.&#x20;
 
-<figure><img src=".gitbook/assets/banner_podcast_aqms.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/banner_podcast_aqms (1).jpg" alt="AQMS newsletter"><figcaption><p>Mantenha seu conhecimento R para pesquisa social acompanhando a Newsletter AQMS </p></figcaption></figure>
 
-Caso queira receber em seu e-mail novos conteúdos e dicas sobre R para análise de dados sociais, acompanhe nossa _newsletter_ "[Análise Quantitativa da Mudanças Sociais - AQMS"](https://aqms.substack.com/).
+Caso queira receber em seu e-mail novos conteúdos e dicas sobre R para análise de dados sociais, acompanhe nossa n_ewsLetter_ "[Análise Quantitativa da Mudanças Sociais (AQMS)"](https://aqms.substack.com/).
 
 ### Como fazer as atividades <a href="#fkdc6lsbdp0e" id="fkdc6lsbdp0e"></a>
 
@@ -122,4 +122,4 @@ Um dos pontos fortes do R está na versatilidade de recursos para análise explo
 
 **Mantenha-se atualizado com R e RStudio**
 
-Acompanhe novos conteúdos e dicas sobre R para análise de dados sociais com a nossa _News Letter_ "[Análise Quantitativa da Mudanças Sociais"](https://aqms.substack.com/).
+Acompanhe novos conteúdos e dicas sobre R para análise de dados sociais com a nossa n_ewsletter_ "[Análise Quantitativa da Mudanças Sociais - AQMS"](https://aqms.substack.com/).
