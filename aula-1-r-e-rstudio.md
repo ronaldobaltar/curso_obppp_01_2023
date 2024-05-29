@@ -46,7 +46,7 @@ Instale a versão **RStudio Desktop** de acordo com o seu sistema operacional. E
 
 O arquivo de instalação do **RStudio** pode ser baixado no seguinte endereço:
 
-[https://rstudio.com/products/rstudio/download/](https://rstudio.com/products/rstudio/download/)
+[https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
 
 ### Tutorial <a href="#id-32kzvqf2aahc" id="id-32kzvqf2aahc"></a>
 
@@ -54,9 +54,18 @@ Se tiver dúvidas sobre como fazer a instalação do R e do RStudio em seu compu
 
 [https://www.iorad.com/player/1815363/Como-instalar-o-R-e-o-RStudio](https://www.iorad.com/player/1815363/Como-instalar-o-R-e-o-RStudio)
 
+
+
+{% hint style="info" %}
 ### RTools <a href="#itm4vjxsq0jw" id="itm4vjxsq0jw"></a>
 
-Alguns pacotes utilizam recursos mais avançados e precisam ser compilados (convertidos da linguagem C/C++ ou Fortran) para funcionarem em seu computador. Para isso, será necessário instalar uma ferramenta adicional em seu computador, chamada RTools, que pode ser obtida no seguinte endereço:
+Alguns pacotes, como ggplot2, utilizam recursos mais avançados e podem solicitar que sejam compilados (convertidos da linguagem C/C++ ou Fortran) para funcionarem em seu computador. &#x20;
+
+Quando você instala um pacote, pode ser que você receba uma mensagem informando que há uma versão em código fonte (não compilada) mais atualizada do que a versão binária disponível para a instalação. Isso quer dizer que os desenvolvedores do pacote atualizaram o código fonte, mas ainda não há uma versão binária já compilada para o windows pronta para instalação nessa nova versão. Você optar por ignorar essa mensagem ou baixar a versão em código fonte e fazer a compilação direto no seu computador.&#x20;
+
+**Não há nenhum problema em ignorar essa mensagem e continuar usando a versão binária que está disponível, sem precisar compilar o código fonte**.&#x20;
+
+Se optar por compilar em sua máquina os códigos fontes, então você precisará instalar em seu uma ferramenta chamada de **RTools**, que pode ser obtida no seguinte endereço:
 
 [https://cran.r-project.org/bin/windows/Rtools/](https://cran.r-project.org/bin/windows/Rtools/)
 
@@ -64,12 +73,10 @@ Baixe e instale a versão mais recente compatível com o seu computador (64-bit 
 
 [https://support.microsoft.com/pt-br/windows/vers%C3%B5es-de-32-bits-e-64-bits-do-windows-perguntas-frequentes-c6ca9541-8dce-4d48-0415-94a3faa2e13d](https://support.microsoft.com/pt-br/windows/vers%C3%B5es-de-32-bits-e-64-bits-do-windows-perguntas-frequentes-c6ca9541-8dce-4d48-0415-94a3faa2e13d))
 
-Aqui, utilizaremos o Windows como referência. Mas, se você usa Linux, você deve instalar a ferramenta de desenvolvimento (equivalente ao RTools do Windows):
+O **RTools** serve apenas para usuários **Windows**. Tenha em conta que o **RTools** ocupará em torno de **1 Gb de espaço** do seu disco rígido.&#x20;
+{% endhint %}
 
-| sudo apt install r-base-dev |
-| --------------------------- |
 
-#### &#x20;<a href="#wpqt72836xlp" id="wpqt72836xlp"></a>
 
 #### Sobre esse conteúdo <a href="#id-5n6cvmjko2cf" id="id-5n6cvmjko2cf"></a>
 
