@@ -47,7 +47,7 @@ Atlas 2013\_municipal, estadual e Brasil.xlsx
 
 DOWNLOAD REGISTRO ADMINISTRATIVO 2012 A 2017.xlsx
 
-Se houver algum problema com o link do site Atlas Brasil, baixe os arquivos já descompactados \
+_Se houver algum problema com o link do site Atlas Brasil, baixe os arquivos já descompactados_ \
 &#x20;👉 [AQUI](https://1drv.ms/f/s!Ah0jPYhaOHXWmI07Yji0hezcRV61pw?e=DEqlFl)&#x20;
 
 Para se familiarizar com o conteúdo, leia e observe os nomes das variáveis e suas definições na pasta Siglas, da primeira planilha, e na pasta legenda, da segunda planilha.
