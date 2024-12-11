@@ -20,13 +20,13 @@ Conhecer a origem e a importância dos indicadores sociais como instrumento de a
 
 [![](<../.gitbook/assets/2 (3).gif>)](https://youtu.be/fkYpgCoRQq0)
 
-[**Aula 2 - parte 3 - O Atlas Brasil IPEA/PNUD/FJP - Watch Video**](https://youtu.be/2\_IcBKzgFDQ)
+[**Aula 2 - parte 3 - O Atlas Brasil IPEA/PNUD/FJP - Watch Video**](https://youtu.be/2_IcBKzgFDQ)
 
-[![](<../.gitbook/assets/3 (2).gif>)](https://youtu.be/2\_IcBKzgFDQ)
+[![](<../.gitbook/assets/3 (2).gif>)](https://youtu.be/2_IcBKzgFDQ)
 
-### [Aula 2 - parte 4 - Baixando os dados do Atlas Brasil - Watch Video](https://youtu.be/b9F77Q\_GjLU) <a href="#w01tp26n3s6v" id="w01tp26n3s6v"></a>
+### [Aula 2 - parte 4 - Baixando os dados do Atlas Brasil - Watch Video](https://youtu.be/b9F77Q_GjLU) <a href="#w01tp26n3s6v" id="w01tp26n3s6v"></a>
 
-### [![](<../.gitbook/assets/4 (2).gif>)](https://youtu.be/b9F77Q\_GjLU) <a href="#lcqh8bcta9g5" id="lcqh8bcta9g5"></a>
+### [![](<../.gitbook/assets/4 (2).gif>)](https://youtu.be/b9F77Q_GjLU) <a href="#lcqh8bcta9g5" id="lcqh8bcta9g5"></a>
 
 ### &#x20;<a href="#id-6bljzuh224sw" id="id-6bljzuh224sw"></a>
 
@@ -46,6 +46,9 @@ Descompacte os arquivos e abra as seguintes planilhas:
 Atlas 2013\_municipal, estadual e Brasil.xlsx
 
 DOWNLOAD REGISTRO ADMINISTRATIVO 2012 A 2017.xlsx
+
+Se houver algum problema com o link do site Atlas Brasil, baixe os arquivos já descompactados \
+&#x20;👉 [AQUI](https://1drv.ms/f/s!Ah0jPYhaOHXWmI07Yji0hezcRV61pw?e=DEqlFl)&#x20;
 
 Para se familiarizar com o conteúdo, leia e observe os nomes das variáveis e suas definições na pasta Siglas, da primeira planilha, e na pasta legenda, da segunda planilha.
 
